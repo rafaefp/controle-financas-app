@@ -1,1 +1,4 @@
-# Aplicativo para controle de financas criado em .Net Core
+# Aplicativo para controle de financas
+- .Net Core
+- MudBlazor
+- Entity Framework
